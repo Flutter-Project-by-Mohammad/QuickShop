@@ -87,7 +87,7 @@ cd QuickShop
 - Install dependencies
 
 ```bash
- flutter pub get
+flutter pub get
 ```
 
 - Run the application
@@ -130,10 +130,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 🙏 Support
 
-If you find this project helpful, consider giving it a star! You can also reach out to me on [LinkedIn](https://www.linkedin.com/in/mohammad-ahmed-8a6b741b4/) or [Twitter](https://twitter.com/MohammadAhmed_1) for any questions or feedback.
+If you find this project helpful, consider giving it a star! You can also reach out to me on [LinkedIn](https://www.linkedin.com/in/mohammad-abu-alhayjaa/) for any questions or feedback.
 
----
+## 🙏 Support
 
-```
-
-```
+If you find this project helpful, consider giving it a star! You can also reach out to me on [LinkedIn](https://www.linkedin.com/in/mohammad-abu-alhayjaa/) for any questions or feedback.
